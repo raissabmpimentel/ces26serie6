@@ -17,5 +17,5 @@ npm start
 ##### Contém os arquivos relacionados ao *frontend* da aplicação.
 * package.json: são os *requirements* da aplicação
 * /src/Components/Calc.js: contém a definições do *React class component* da calculadora
-* /src/Services: contém os serviços de autenticação com usuários
+* /src/reducers.js: contém a função *reducer*
 * /src/App.js: arquivo principal de montagem da página
