@@ -6,7 +6,6 @@
 ##### Acesse o diretório *./calculator*
 ```shell
 npm i
-npm run build
 npm start
 ```
 ###### A aplicação deverá ser executada em *http://localhost:3000/*
