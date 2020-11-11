@@ -1,7 +1,7 @@
 # Calculator
 #### O projeto consiste em uma calculadora com as quatro operações aritméticas básicas, implementada utilizando React e Redux.
 
-## Como utilizar o projeto:
+## Como utilizar a aplicação:
 
 ##### Acesse o diretório *./calculator*
 ```shell
@@ -11,7 +11,7 @@ npm start
 ```
 ###### A aplicação deverá ser executada em *http://localhost:3000/*
 
-## Organização do Projeto:
+## Organização da aplicação:
 
 #### *./calculator*
 ##### Contém os arquivos relacionados ao *frontend* da aplicação.
