@@ -7,7 +7,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import calcReducer from './reducers';
 
-
+// Criar store com a funcao de reducer
 const store = createStore(calcReducer);
 
 ReactDOM.render(

@@ -1,12 +1,10 @@
 import React, { Component } from 'react';
 import './Calc.css';
 
-
 // Baseado em https://codepen.io/Emperor359/pen/JKgzax
 
 class Calc extends Component {
     
-
     render(){
       return (
         <div className="calc-container">
